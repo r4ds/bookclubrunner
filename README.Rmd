@@ -1,0 +1,38 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# bookclubrunner
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+Automate or otherwise streamline tasks associated with running R4DS book clubs, such as choosing the best time for a new cohort.
+
+## Installation
+
+You can install the development version of bookclubrunner from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("remotes")
+remotes::install_github("r4ds/bookclubrunner")
+```
+
+## Usage
+
+Add usage information and examples here.
+
+## Code of Conduct
+
+Please note that the bookclubrunner project is released with a [Contributor Code of Conduct](https://r4ds.github.io/bookclubrunner/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
