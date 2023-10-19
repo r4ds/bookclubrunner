@@ -23,8 +23,8 @@ You can install the development version of bookclubrunner from
 [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("remotes")
-remotes::install_github("r4ds/bookclubrunner")
+# install.packages("pak")
+pak::pak("r4ds/bookclubrunner")
 ```
 
 ## Usage
