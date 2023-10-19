@@ -11,8 +11,20 @@ License: MIT + file LICENSE
 URL: https://github.com/r4ds/bookclubrunner,
     https://r4ds.github.io/bookclubrunner/
 BugReports: https://github.com/r4ds/bookclubrunner/issues
+Imports: 
+    bookclubdata,
+    cli,
+    dplyr,
+    glue,
+    lubridate,
+    rlang,
+    stringr,
+    tidyr,
+    withr
 Suggests: 
     testthat (>= 3.0.0)
+Remotes:
+    r4ds/bookclubdata
 Config/testthat/edition: 3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
