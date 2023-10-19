@@ -8,11 +8,12 @@ Description: Automate or otherwise streamline tasks associated with
     running R4DS book clubs, such as choosing the best time for a new
     cohort.
 License: MIT + file LICENSE
+URL: https://github.com/r4ds/bookclubrunner,
+    https://r4ds.github.io/bookclubrunner/
+BugReports: https://github.com/r4ds/bookclubrunner/issues
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
-URL: https://github.com/r4ds/bookclubrunner
-BugReports: https://github.com/r4ds/bookclubrunner/issues
